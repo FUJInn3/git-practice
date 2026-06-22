@@ -1,5 +1,9 @@
 # git-practice
 ## 自己紹介
-NAME: Ryo Fujiwara
+NAME: FUJInn3
+
 MMAID: fuji
-BIRTHDAY: APR 23 2007
+
+BIRTHDAY: APR 23
+
+LIKE: VIDEO GAME, RUBIC-CUBE, SWEETS
